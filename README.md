@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nguyễn Hữu Nghĩa
 - 👀 I’m interested in web development especially front-end development
 - 🌱 I’m currently learning reactjs
-- 💞️ I’m looking to an intern oppotunity 
 
 <!---
 nguyenhnghia/nguyenhnghia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
